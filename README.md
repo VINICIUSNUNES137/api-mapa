@@ -6,6 +6,9 @@
 
 ![](https://blog.postman.com/wp-content/uploads/2021/03/APIs-in-Postman-e1616786230943.png)
 
+## [Clique aqui](https://api-mapa.onrender.com/v1/senai/cidades?uf=sp) para acessar a API
+
+
 ## **SOBRE**
 
 - Esse projeto foi desenvolvido em aula com a finalidade de criar uma API, com base em nossas funções, o aplicativo que utilizamos para emular foi o Postman.
